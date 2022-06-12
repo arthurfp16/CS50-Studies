@@ -16,4 +16,4 @@ Minha ideia inicial veio do momento que eu estava escolhendo qual das imagens te
 desenvolvi uma expecie de animação (chamarei assim pela falta de inputs do usuario), onde uma bola vem em diresao desse menino ele pega a bola e a arremessa devolta e quando a bola pega na parede da direita o ciclo se reinicia.
 
 **Imagem do exercicio**
-![Imagem do exercicio](https://github.com/arthurfp16/CS50-Studies/edit/aula0/README.md)
+![Imagem do exercicio](https://github.com/arthurfp16/CS50-Studies/blob/a655002ee7799df4d8af538928f6348deb29a12a/imagemExercicio.jpg)
